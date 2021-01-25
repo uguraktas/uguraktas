@@ -22,7 +22,7 @@ My web site [uguraktas.info](https://www.uguraktas.info/)
 
 Follow me on social media:
 
-[Twitter](https://twitter.com/uguraktas),
+[Twitter](https://twitter.com/uguraktas25),
 [LinkedIn](https://www.linkedin.com/in/uguraktas/),
 [Instagram](https://www.instagram.com/uguraktas25/),
 [YouTube](https://www.youtube.com/c/uguraktas),
