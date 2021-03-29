@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Ugur Aktas.
 
-My web site [uguraktas.info](https://www.uguraktas.info/)
+Web site [uguraktas.info](https://www.uguraktas.info/)
 
 Follow me on social media:
 
