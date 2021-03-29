@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Ugur Aktas. I am living in Istanbul, Turkey. 
+My name is Ugur Aktas.
 
 My web site [uguraktas.info](https://www.uguraktas.info/)
 
