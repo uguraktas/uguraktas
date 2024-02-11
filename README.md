@@ -1,10 +1,7 @@
 ### Hi there 👋
 
+My name is Ugur Aktas.
 <!--
-**uguraktas/uguraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,11 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-My name is Ugur Aktas.
-
-Web site [uguraktas.info](https://www.uguraktas.info/)
+Web site: [uguraktas.com](https://www.uguraktas.com/)
 
 Follow me on social media:
 
@@ -27,6 +20,9 @@ Follow me on social media:
 [Instagram](https://www.instagram.com/uguraktas25/),
 [YouTube](https://www.youtube.com/c/uguraktas),
 [StackOverflow](https://stackoverflow.com/users/8519853/u%C4%9Fur)
+
+
+
 
 ![Ugur's github stats](https://github-readme-stats.vercel.app/api?username=uguraktas&show_icons=true)
 
